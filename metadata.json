@@ -1,0 +1,6 @@
+{
+  "name": "NexusPulse Marketing Analytics Dashboard",
+  "description": "Premium modern marketing analytics and ecommerce campaign performance dashboard with multi-channel tracking, real-time ROAS, conversion funnel, and budget intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
